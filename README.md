@@ -9,12 +9,15 @@
 ```
 data/profile/
 ├── README.md            # 本索引
-└── qtclass/             # 实训基地解决方案（课堂+招聘+众包一体）
+└── qtclass/             # 实训基地解决方案
     ├── README.md        # 业务线索引
+    ├── earn/            # 怎么挣代金券
+    ├── spend/           # 怎么花代金券
     └── {solution}.md    # 一条解决方案一个文档
 ```
 
 - 目录 = 业务线（qtclass、qtdata、qtcloud……），随支持对象扩展；其他业务线有条目时再建目录
+- 业务线内主题聚集时（如代金券的挣/花）用子文件夹分组
 - 文档名 = 解决方案的英文短横线命名（如 `voucher-usage.md`）
 - 新解决方案先入业务线目录，登记进该目录的 README 索引
 
