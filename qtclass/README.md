@@ -7,6 +7,5 @@
 | 条目 | 一句话 | 来源 |
 |---|---|---|
 | [voucher-usage.md](voucher-usage.md) | 代金券怎么用、怎么挣 | journal/2026-09-01#案例一 |
-| [business-info-channels.md](business-info-channels.md) | 商务信息从哪里了解 | journal/2026-09-01#案例二 |
 
-新增条目后在此表登记。
+新增条目后在此表登记。公司级通用条目（内外部通用）不放这里，放 qttech/。
