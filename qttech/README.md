@@ -7,5 +7,6 @@
 | 条目 | 一句话 | 来源 |
 |---|---|---|
 | [business-info-channels.md](business-info-channels.md) | 商务信息从哪里了解 | journal/2026-09-01#案例二 |
+| [email-workflow-evolution.md](email-workflow-evolution.md) | 从邮件工作流到商务平台：业务演进背景 | journal/2026-08-30#案例一 |
 
 新增条目后在此表登记。业务线专属条目放对应业务线目录（qtclass/ 等）。
