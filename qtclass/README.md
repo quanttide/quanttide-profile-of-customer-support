@@ -6,12 +6,6 @@
 
 | 条目 | 一句话 | 类型 |
 |---|---|---|
-| [task-application-email.md](task-application-email.md) | 课题申请发到哪个邮箱 | FAQ |
-| [doc-permission-check.md](doc-permission-check.md) | 提交前检查文档访问权限 | 操作指引 |
-| [topic-deadline.md](topic-deadline.md) | 课题 deadline 与考核资格 | 制度 |
-| [rank-progress.md](rank-progress.md) | 职级与成长进度条 | 制度 |
-| [business-info-channels.md](business-info-channels.md) | 商务信息从哪里了解 | FAQ |
-| [email-workflow-evolution.md](email-workflow-evolution.md) | 从邮件工作流到商务平台：业务演进背景 | 背景 |
 | [course-material-access.md](course-material-access.md) | 官网课程的资料怎么获取 | FAQ |
 
 代金券挣/花的计价事实归支付域（quanttide-pay/data/profile/qtclass/），支持域不重复承载。
